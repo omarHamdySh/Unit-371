@@ -154,15 +154,15 @@ MonoBehaviour:
     m_Value: 1
   rayTracing:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 0
   minSmoothness:
     m_OverrideState: 1
-    m_Value: 0.6
+    m_Value: 0.8
     min: 0
     max: 1
   smoothnessFadeStart:
     m_OverrideState: 0
-    m_Value: 0.6
+    m_Value: 1
     min: 0
     max: 1
   reflectSky:

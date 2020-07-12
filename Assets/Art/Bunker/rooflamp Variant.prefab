@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5435330058918669446
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -9188383022819503898, guid: 8355400ef4ab7a94c98a93eaad8f0b8b,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.6
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8355400ef4ab7a94c98a93eaad8f0b8b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8355400ef4ab7a94c98a93eaad8f0b8b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.079
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8355400ef4ab7a94c98a93eaad8f0b8b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 28.443
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8355400ef4ab7a94c98a93eaad8f0b8b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8355400ef4ab7a94c98a93eaad8f0b8b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8355400ef4ab7a94c98a93eaad8f0b8b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8355400ef4ab7a94c98a93eaad8f0b8b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8355400ef4ab7a94c98a93eaad8f0b8b,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8355400ef4ab7a94c98a93eaad8f0b8b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8355400ef4ab7a94c98a93eaad8f0b8b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8355400ef4ab7a94c98a93eaad8f0b8b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8154916524647620859, guid: 8355400ef4ab7a94c98a93eaad8f0b8b,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.6
+      objectReference: {fileID: 0}
+    - target: {fileID: -7350251306480375181, guid: 8355400ef4ab7a94c98a93eaad8f0b8b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: -6720861932061804968, guid: 8355400ef4ab7a94c98a93eaad8f0b8b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 622534886468259259, guid: 8355400ef4ab7a94c98a93eaad8f0b8b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8355400ef4ab7a94c98a93eaad8f0b8b,
+        type: 3}
+      propertyPath: m_Name
+      value: rooflamp
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8355400ef4ab7a94c98a93eaad8f0b8b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 4742473837712756890, guid: 8355400ef4ab7a94c98a93eaad8f0b8b,
+        type: 3}
+      propertyPath: m_FadeMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4742473837712756890, guid: 8355400ef4ab7a94c98a93eaad8f0b8b,
+        type: 3}
+      propertyPath: m_AnimateCrossFading
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8355400ef4ab7a94c98a93eaad8f0b8b, type: 3}
